@@ -1,0 +1,91 @@
+1. Set the paths before installing (add them to ~/.bashrc so they stay set):
+
+
+cat >> ~/.bashrc <<'EOF'
+
+# ---- robustExAI: keep uv / torch / HF data off /home ----
+export PROJ=/data1/chethan/robustExAI
+export UV_INSTALL_DIR=$PROJ/.uv/bin           # uv binary
+export UV_CACHE_DIR=$PROJ/.uv/cache           # package cache (large)
+export UV_PYTHON_INSTALL_DIR=$PROJ/.uv/python # Python versions uv downloads
+export UV_TOOL_DIR=$PROJ/.uv/tools
+export UV_PROJECT_ENVIRONMENT=$PROJ/.venv     # the environment itself
+export TORCH_HOME=$PROJ/.cache/torch          # torchvision pretrained weights
+export HF_HOME=$PROJ/.cache/huggingface       # for later: HF datasets/models
+export PATH=$UV_INSTALL_DIR:$PATH
+EOF
+source ~/.bashrc
+conda deactivate
+
+
+
+2. Install uv into the project folder:
+
+curl -LsSf https://astral.sh/uv/install.sh | env UV_NO_MODIFY_PATH=1 sh
+which uv          # should print /data1/chethan/robustExAI/.uv/bin/uv
+
+
+3. Create the environment:
+
+cd /data1/chethan/robustExAI
+uv init --bare --python 3.12
+uv python install 3.12            # goes to $PROJ/.uv/python
+uv venv --python 3.12             # creates $PROJ/.venv
+uv add torch torchvision pillow scikit-learn
+
+
+4. Keep these folders out of git:
+
+printf ".venv/\n.uv/\n.cache/\nresults/\n" >> .gitignore
+
+
+5. Check where everything went:
+uv run python -c "import sys, torch; print(sys.executable); print(torch.__version__, torch.cuda.is_available())"
+uv cache dir
+du -sh .venv .uv .cache 2>/dev/null
+
+
+You can now add the Hugging Face packages:
+
+uv add datasets huggingface_hub
+uv run hf auth login          # accept the ImageNet-1k terms on the HF page first
+
+
+2. Download 1000 validation images with labels:
+cd /data1/chethan/robustExAI
+echo "data/" >> .gitignore
+
+N=1000 OUT=/data1/chethan/robustExAI/data/imagenet_val_1000 uv run python - <<'EOF'
+import os, csv
+from datasets import load_dataset, Image
+
+N, out = int(os.environ["N"]), os.environ["OUT"]
+os.makedirs(out, exist_ok=True)
+
+ds = load_dataset("ILSVRC/imagenet-1k", split="validation", streaming=True)
+names = ds.features["label"].names
+ds = ds.cast_column("image", Image(decode=False)).shuffle(seed=0, buffer_size=5000)
+
+with open(os.path.join(out, "labels.csv"), "w", newline="") as fh:
+    w = csv.writer(fh); w.writerow(["filename", "label", "class_name"])
+    for i, ex in enumerate(ds.take(N)):
+        fname = f"{i}.JPEG"
+        with open(os.path.join(out, fname), "wb") as f:
+            f.write(ex["image"]["bytes"])
+        w.writerow([fname, ex["label"], names[ex["label"]]])
+        if (i + 1) % 100 == 0: print(f"{i+1}/{N}", flush=True)
+print("done ->", out)
+EOF
+
+
+
+3. Check the result:
+ls data/imagenet_val_1000 | wc -l          # 1001 (1000 images + labels.csv)
+head -5 data/imagenet_val_1000/labels.csv
+
+
+4. Run the three models:
+uv run python modelsInference.py \
+  --data_dir data/imagenet_val_1000 \
+  --labels   data/imagenet_val_1000/labels.csv \
+  --out_dir  results/clean_inference
