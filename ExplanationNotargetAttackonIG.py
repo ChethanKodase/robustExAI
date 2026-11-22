@@ -108,6 +108,11 @@ conda deactivate              # if (base) is showing
 source .venv/bin/activate
 uv run python ExplanationNotargetAttackonIG.py --max_images 100 --eps 2 4 8 --n_qual 10 --grid_rows 5
 
+export CUDA_VISIBLE_DEVICES=4
+cd /data1/chethan/robustExAI
+conda deactivate              # if (base) is showing
+source .venv/bin/activate
+
 """
 
 import argparse

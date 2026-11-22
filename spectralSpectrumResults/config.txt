@@ -1,0 +1,1 @@
+{'models': ['convnext_base', 'vit_b_16', 'resnet50'], 'out_dir': 'spectralSpectrumResults', 'kinds': ['linear', 'conv', 'attn_in_proj'], 'random_weights': False, 'device': 'cuda'}
