@@ -105,7 +105,7 @@ Usage
     (eps values are given in units of 1/255)
 
 
-export CUDA_VISIBLE_DEVICES=0
+export CUDA_VISIBLE_DEVICES=1
 cd /data1/chethan/robustExAI
 conda deactivate              # if (base) is showing
 source .venv/bin/activate
