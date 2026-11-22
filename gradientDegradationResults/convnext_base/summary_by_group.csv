@@ -1,0 +1,2 @@
+group,n_layers,median_sigma_min,median_grill_ratio,median_gradA_rms,median_gradA_over_input
+well-conditioned,4,0.24035979062318802,7.829126947068208,1.1505094789754367e-05,19.81032043359547

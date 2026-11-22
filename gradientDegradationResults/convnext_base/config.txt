@@ -1,0 +1,2 @@
+{'model': 'convnext_base', 'data_dir': 'data/imagenet_val_1000', 'labels': 'data/imagenet_val_1000/labels.csv', 'out_dir': 'gradientDegradationResults', 'eps': 4.0, 'num_images': 20, 'num_summands': 30, 'layers': None, 'topk': 1000, 'seed': 0, 'device': 'cuda'}
+layers: stage1_pwconv2, stage3_pwconv2, stage5_pwconv2, stage7_pwconv2

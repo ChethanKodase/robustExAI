@@ -1,0 +1,2 @@
+{'model': 'resnet50', 'data_dir': 'data/imagenet_val_1000', 'labels': 'data/imagenet_val_1000/labels.csv', 'out_dir': 'gradientDegradationResults', 'eps': 4.0, 'num_images': 20, 'num_summands': 30, 'layers': None, 'topk': 1000, 'seed': 0, 'device': 'cuda'}
+layers: layer1_0_conv1, layer1_0_conv3, layer1_0_downsample_0, layer1_1_conv1

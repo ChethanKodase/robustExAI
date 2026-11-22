@@ -1,0 +1,2 @@
+group,n_layers,median_sigma_min,median_grill_ratio,median_gradA_rms,median_gradA_over_input
+NEAR-NULL (sigma_min<1e-3),4,8.098195181105439e-08,1.7633034044039495,0.0003345836594235152,1418.0832822094042
