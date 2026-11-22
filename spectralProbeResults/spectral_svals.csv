@@ -1,0 +1,6 @@
+layer,n,m,sigma_max,sigma_min,exact_null,n_below_1e-2,n_below_1e-3,n_below_1e-4
+stage1_pwconv2,512,128,3.174504e+00,2.260365e-01,384,0,0,0
+stage3_pwconv2,1024,256,6.421728e+00,2.238434e-01,768,0,0,0
+stage5_pwconv2,2048,512,7.882527e+00,3.620681e-01,1536,0,0,0
+stage7_pwconv2,4096,1024,8.403801e+00,2.546831e-01,3072,0,0,0
+classifier_head,1024,1000,4.656660e+00,1.097552e-02,24,0,0,0
