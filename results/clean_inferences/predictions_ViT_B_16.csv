@@ -1,0 +1,1001 @@
+filename,true_idx,true_name,pred_idx,pred_name,confidence,correct
+0.JPEG,499,cleaver,51,triceratops,0.0466,0
+1.JPEG,55,green snake,55,green snake,0.8836,1
+2.JPEG,169,borzoi,169,borzoi,0.7831,1
+3.JPEG,232,Border collie,232,Border collie,0.6742,1
+4.JPEG,416,balance beam,416,balance beam,0.8525,1
+5.JPEG,251,dalmatian,251,dalmatian,0.9019,1
+6.JPEG,172,whippet,176,Saluki,0.7586,0
+7.JPEG,72,black and gold garden spider,72,black and gold garden spider,0.6553,1
+8.JPEG,601,hoopskirt,601,hoopskirt,0.6862,1
+9.JPEG,701,parachute,701,parachute,0.7516,1
+10.JPEG,541,drum,541,drum,0.4355,1
+11.JPEG,535,disk brake,535,disk brake,0.8973,1
+12.JPEG,44,alligator lizard,71,scorpion,0.1986,0
+13.JPEG,417,balloon,417,balloon,0.9011,1
+14.JPEG,203,West Highland white terrier,203,West Highland white terrier,0.8574,1
+15.JPEG,388,giant panda,388,giant panda,0.9096,1
+16.JPEG,87,African grey,87,African grey,0.8886,1
+17.JPEG,750,quilt,750,quilt,0.2450,1
+18.JPEG,921,book jacket,921,book jacket,0.4970,1
+19.JPEG,116,chiton,116,chiton,0.7598,1
+20.JPEG,719,piggy bank,719,piggy bank,0.9050,1
+21.JPEG,735,poncho,735,poncho,0.8726,1
+22.JPEG,849,teapot,849,teapot,0.8776,1
+23.JPEG,36,terrapin,36,terrapin,0.9065,1
+24.JPEG,107,jellyfish,107,jellyfish,0.8816,1
+25.JPEG,466,bullet train,466,bullet train,0.8857,1
+26.JPEG,963,pizza,927,trifle,0.8491,0
+27.JPEG,399,abaya,399,abaya,0.8917,1
+28.JPEG,826,stopwatch,826,stopwatch,0.8881,1
+29.JPEG,809,soup bowl,618,ladle,0.3292,0
+30.JPEG,616,knot,488,chain,0.6792,0
+31.JPEG,851,television,598,home theater,0.2156,0
+32.JPEG,304,leaf beetle,304,leaf beetle,0.8930,1
+33.JPEG,571,gas pump,571,gas pump,0.8774,1
+34.JPEG,652,military uniform,652,military uniform,0.9214,1
+35.JPEG,640,manhole cover,640,manhole cover,0.8641,1
+36.JPEG,567,frying pan,909,wok,0.4557,0
+37.JPEG,53,ringneck snake,53,ringneck snake,0.8577,1
+38.JPEG,706,patio,706,patio,0.8865,1
+39.JPEG,86,partridge,86,partridge,0.7216,1
+40.JPEG,539,doormat,539,doormat,0.9129,1
+41.JPEG,820,steam locomotive,820,steam locomotive,0.9032,1
+42.JPEG,120,fiddler crab,125,hermit crab,0.5833,0
+43.JPEG,534,dishwasher,534,dishwasher,0.8211,1
+44.JPEG,215,Brittany spaniel,215,Brittany spaniel,0.8364,1
+45.JPEG,945,bell pepper,945,bell pepper,0.9401,1
+46.JPEG,391,coho,391,coho,0.8891,1
+47.JPEG,716,picket fence,716,picket fence,0.8050,1
+48.JPEG,313,walking stick,315,mantis,0.8579,0
+49.JPEG,62,rock python,62,rock python,0.4462,1
+50.JPEG,602,horizontal bar,602,horizontal bar,0.9011,1
+51.JPEG,916,web site,916,web site,0.8994,1
+52.JPEG,641,maraca,641,maraca,0.5179,1
+53.JPEG,679,necklace,679,necklace,0.6297,1
+54.JPEG,138,bustard,138,bustard,0.8909,1
+55.JPEG,965,burrito,965,burrito,0.8848,1
+56.JPEG,476,carousel,476,carousel,0.7974,1
+57.JPEG,183,Kerry blue terrier,183,Kerry blue terrier,0.8817,1
+58.JPEG,743,prison,743,prison,0.9021,1
+59.JPEG,674,mousetrap,674,mousetrap,0.9287,1
+60.JPEG,144,pelican,144,pelican,0.8535,1
+61.JPEG,668,mosque,668,mosque,0.8627,1
+62.JPEG,123,spiny lobster,123,spiny lobster,0.9016,1
+63.JPEG,585,hair spray,585,hair spray,0.8244,1
+64.JPEG,859,toaster,859,toaster,0.8944,1
+65.JPEG,877,turnstile,877,turnstile,0.8969,1
+66.JPEG,447,binoculars,447,binoculars,0.9275,1
+67.JPEG,322,ringlet,322,ringlet,0.8742,1
+68.JPEG,675,moving van,654,minibus,0.7945,0
+69.JPEG,332,Angora,332,Angora,0.8613,1
+70.JPEG,805,soccer ball,805,soccer ball,0.8378,1
+71.JPEG,954,banana,954,banana,0.8515,1
+72.JPEG,251,dalmatian,251,dalmatian,0.9130,1
+73.JPEG,1,goldfish,1,goldfish,0.7740,1
+74.JPEG,989,hip,989,hip,0.8753,1
+75.JPEG,159,Rhodesian ridgeback,159,Rhodesian ridgeback,0.8997,1
+76.JPEG,63,Indian cobra,63,Indian cobra,0.8818,1
+77.JPEG,919,street sign,919,street sign,0.8057,1
+78.JPEG,141,redshank,141,redshank,0.8938,1
+79.JPEG,640,manhole cover,640,manhole cover,0.4333,1
+80.JPEG,970,alp,970,alp,0.8413,1
+81.JPEG,183,Kerry blue terrier,183,Kerry blue terrier,0.3684,1
+82.JPEG,501,cloak,903,wig,0.7920,0
+83.JPEG,444,bicycle-built-for-two,444,bicycle-built-for-two,0.8906,1
+84.JPEG,574,golf ball,574,golf ball,0.8618,1
+85.JPEG,242,boxer,180,American Staffordshire terrier,0.3069,0
+86.JPEG,933,cheeseburger,933,cheeseburger,0.8523,1
+87.JPEG,251,dalmatian,251,dalmatian,0.8917,1
+88.JPEG,397,puffer,397,puffer,0.9260,1
+89.JPEG,203,West Highland white terrier,203,West Highland white terrier,0.8335,1
+90.JPEG,531,digital watch,531,digital watch,0.6400,1
+91.JPEG,383,Madagascar cat,383,Madagascar cat,0.8830,1
+92.JPEG,512,corkscrew,512,corkscrew,0.8438,1
+93.JPEG,382,squirrel monkey,382,squirrel monkey,0.7894,1
+94.JPEG,155,Shih-Tzu,157,papillon,0.4431,0
+95.JPEG,988,acorn,988,acorn,0.9014,1
+96.JPEG,341,hog,341,hog,0.6636,1
+97.JPEG,14,indigo bunting,14,indigo bunting,0.7565,1
+98.JPEG,324,cabbage butterfly,324,cabbage butterfly,0.8871,1
+99.JPEG,218,Welsh springer spaniel,218,Welsh springer spaniel,0.8689,1
+100.JPEG,470,candle,470,candle,0.4575,1
+101.JPEG,988,acorn,988,acorn,0.8437,1
+102.JPEG,647,measuring cup,647,measuring cup,0.8237,1
+103.JPEG,746,puck,746,puck,0.8841,1
+104.JPEG,512,corkscrew,512,corkscrew,0.7926,1
+105.JPEG,804,soap dispenser,804,soap dispenser,0.9658,1
+106.JPEG,717,pickup,717,pickup,0.8619,1
+107.JPEG,646,maze,646,maze,0.8797,1
+108.JPEG,166,Walker hound,162,beagle,0.3898,0
+109.JPEG,995,earthstar,995,earthstar,0.8869,1
+110.JPEG,47,African chameleon,42,agama,0.5882,0
+111.JPEG,139,ruddy turnstone,139,ruddy turnstone,0.8817,1
+112.JPEG,904,window screen,904,window screen,0.8786,1
+113.JPEG,108,sea anemone,108,sea anemone,0.8324,1
+114.JPEG,493,chiffonier,894,wardrobe,0.8173,0
+115.JPEG,617,lab coat,823,stethoscope,0.7284,0
+116.JPEG,859,toaster,859,toaster,0.7256,1
+117.JPEG,171,Italian greyhound,171,Italian greyhound,0.4640,1
+118.JPEG,528,dial telephone,528,dial telephone,0.9253,1
+119.JPEG,651,microwave,651,microwave,0.8833,1
+120.JPEG,401,accordion,401,accordion,0.8549,1
+121.JPEG,838,sunscreen,631,lotion,0.6391,0
+122.JPEG,128,black stork,128,black stork,0.8869,1
+123.JPEG,642,marimba,642,marimba,0.7574,1
+124.JPEG,718,pier,718,pier,0.8544,1
+125.JPEG,102,echidna,102,echidna,0.8893,1
+126.JPEG,96,toucan,96,toucan,0.9109,1
+127.JPEG,589,hand blower,241,EntleBucher,0.5949,0
+128.JPEG,158,toy terrier,158,toy terrier,0.6675,1
+129.JPEG,993,gyromitra,993,gyromitra,0.8384,1
+130.JPEG,479,car wheel,479,car wheel,0.8753,1
+131.JPEG,990,buckeye,990,buckeye,0.8825,1
+132.JPEG,443,bib,463,bucket,0.6427,0
+133.JPEG,629,lipstick,629,lipstick,0.8935,1
+134.JPEG,898,water bottle,438,beaker,0.2786,0
+135.JPEG,62,rock python,62,rock python,0.8462,1
+136.JPEG,145,king penguin,145,king penguin,0.9002,1
+137.JPEG,707,pay-phone,707,pay-phone,0.9311,1
+138.JPEG,602,horizontal bar,416,balance beam,0.8278,0
+139.JPEG,461,breastplate,787,shield,0.8695,0
+140.JPEG,64,green mamba,64,green mamba,0.8417,1
+141.JPEG,93,hornbill,93,hornbill,0.8844,1
+142.JPEG,344,hippopotamus,221,Irish water spaniel,0.2827,0
+143.JPEG,212,English setter,212,English setter,0.8668,1
+144.JPEG,125,hermit crab,125,hermit crab,0.8854,1
+145.JPEG,124,crayfish,124,crayfish,0.8819,1
+146.JPEG,597,holster,465,bulletproof vest,0.7704,0
+147.JPEG,50,American alligator,50,American alligator,0.8795,1
+148.JPEG,553,file,553,file,0.9365,1
+149.JPEG,3,tiger shark,3,tiger shark,0.7795,1
+150.JPEG,986,yellow lady's slipper,986,yellow lady's slipper,0.8489,1
+151.JPEG,803,snowplow,803,snowplow,0.9143,1
+152.JPEG,405,airship,718,pier,0.7109,0
+153.JPEG,700,paper towel,536,dock,0.9376,0
+154.JPEG,474,cardigan,474,cardigan,0.8420,1
+155.JPEG,573,go-kart,573,go-kart,0.8865,1
+156.JPEG,996,hen-of-the-woods,996,hen-of-the-woods,0.7535,1
+157.JPEG,194,Dandie Dinmont,194,Dandie Dinmont,0.9177,1
+158.JPEG,402,acoustic guitar,402,acoustic guitar,0.7521,1
+159.JPEG,153,Maltese dog,153,Maltese dog,0.4896,1
+160.JPEG,558,flute,558,flute,0.8514,1
+161.JPEG,131,little blue heron,23,vulture,0.1703,0
+162.JPEG,822,steel drum,822,steel drum,0.9139,1
+163.JPEG,111,nematode,111,nematode,0.8882,1
+164.JPEG,828,strainer,469,caldron,0.5668,0
+165.JPEG,504,coffee mug,504,coffee mug,0.6771,1
+166.JPEG,805,soccer ball,805,soccer ball,0.8846,1
+167.JPEG,631,lotion,631,lotion,0.4097,1
+168.JPEG,71,scorpion,71,scorpion,0.8804,1
+169.JPEG,800,slot,800,slot,0.8959,1
+170.JPEG,260,chow,260,chow,0.8543,1
+171.JPEG,902,whistle,902,whistle,0.9091,1
+172.JPEG,444,bicycle-built-for-two,444,bicycle-built-for-two,0.8529,1
+173.JPEG,361,skunk,361,skunk,0.8829,1
+174.JPEG,244,Tibetan mastiff,244,Tibetan mastiff,0.9200,1
+175.JPEG,423,barber chair,423,barber chair,0.7709,1
+176.JPEG,826,stopwatch,826,stopwatch,0.9276,1
+177.JPEG,900,water tower,668,mosque,0.3821,0
+178.JPEG,292,tiger,292,tiger,0.6854,1
+179.JPEG,384,indri,384,indri,0.8780,1
+180.JPEG,498,cinema,498,cinema,0.8827,1
+181.JPEG,716,picket fence,385,Indian elephant,0.6110,0
+182.JPEG,183,Kerry blue terrier,183,Kerry blue terrier,0.3793,1
+183.JPEG,286,cougar,286,cougar,0.8561,1
+184.JPEG,274,dhole,274,dhole,0.8895,1
+185.JPEG,875,trombone,875,trombone,0.7905,1
+186.JPEG,282,tiger cat,292,tiger,0.7256,0
+187.JPEG,661,Model T,661,Model T,0.8744,1
+188.JPEG,956,custard apple,956,custard apple,0.8882,1
+189.JPEG,243,bull mastiff,243,bull mastiff,0.6939,1
+190.JPEG,589,hand blower,836,sunglass,0.1768,0
+191.JPEG,59,vine snake,55,green snake,0.5372,0
+192.JPEG,732,Polaroid camera,732,Polaroid camera,0.8745,1
+193.JPEG,864,tow truck,864,tow truck,0.8741,1
+194.JPEG,651,microwave,651,microwave,0.8686,1
+195.JPEG,597,holster,597,holster,0.9002,1
+196.JPEG,851,television,474,cardigan,0.2240,0
+197.JPEG,660,mobile home,660,mobile home,0.3907,1
+198.JPEG,876,tub,435,bathtub,0.7023,0
+199.JPEG,181,Bedlington terrier,181,Bedlington terrier,0.9017,1
+200.JPEG,438,beaker,438,beaker,0.4981,1
+201.JPEG,236,Doberman,240,Appenzeller,0.2206,0
+202.JPEG,712,Petri dish,712,Petri dish,0.5936,1
+203.JPEG,388,giant panda,388,giant panda,0.8698,1
+204.JPEG,313,walking stick,313,walking stick,0.8634,1
+205.JPEG,745,projector,745,projector,0.4617,1
+206.JPEG,618,ladle,618,ladle,0.1343,1
+207.JPEG,105,koala,105,koala,0.8713,1
+208.JPEG,481,cassette,605,iPod,0.3922,0
+209.JPEG,886,vending machine,886,vending machine,0.9488,1
+210.JPEG,537,dogsled,537,dogsled,0.8853,1
+211.JPEG,136,European gallinule,136,European gallinule,0.8954,1
+212.JPEG,911,wool,750,quilt,0.2992,0
+213.JPEG,564,four-poster,564,four-poster,0.8735,1
+214.JPEG,326,lycaenid,326,lycaenid,0.8627,1
+215.JPEG,898,water bottle,720,pill bottle,0.4861,0
+216.JPEG,198,standard schnauzer,198,standard schnauzer,0.8232,1
+217.JPEG,727,planetarium,727,planetarium,0.8987,1
+218.JPEG,241,EntleBucher,241,EntleBucher,0.8169,1
+219.JPEG,994,stinkhorn,994,stinkhorn,0.9114,1
+220.JPEG,48,Komodo dragon,48,Komodo dragon,0.8958,1
+221.JPEG,105,koala,105,koala,0.8856,1
+222.JPEG,568,fur coat,568,fur coat,0.8566,1
+223.JPEG,575,golfcart,575,golfcart,0.3297,1
+224.JPEG,293,cheetah,293,cheetah,0.8700,1
+225.JPEG,789,shoji,789,shoji,0.5212,1
+226.JPEG,751,racer,751,racer,0.6765,1
+227.JPEG,911,wool,911,wool,0.7842,1
+228.JPEG,843,swing,843,swing,0.8913,1
+229.JPEG,295,American black bear,295,American black bear,0.8471,1
+230.JPEG,182,Border terrier,182,Border terrier,0.8911,1
+231.JPEG,252,affenpinscher,252,affenpinscher,0.9052,1
+232.JPEG,901,whiskey jug,901,whiskey jug,0.8869,1
+233.JPEG,304,leaf beetle,301,ladybug,0.4919,0
+234.JPEG,538,dome,538,dome,0.8454,1
+235.JPEG,77,wolf spider,77,wolf spider,0.7661,1
+236.JPEG,167,English foxhound,167,English foxhound,0.6179,1
+237.JPEG,50,American alligator,363,armadillo,0.6331,0
+238.JPEG,874,trolleybus,874,trolleybus,0.9061,1
+239.JPEG,863,totem pole,863,totem pole,0.8562,1
+240.JPEG,364,three-toed sloth,364,three-toed sloth,0.8895,1
+241.JPEG,407,ambulance,407,ambulance,0.8425,1
+242.JPEG,645,maypole,645,maypole,0.8935,1
+243.JPEG,665,moped,665,moped,0.2825,1
+244.JPEG,396,lionfish,396,lionfish,0.9013,1
+245.JPEG,783,screw,783,screw,0.8713,1
+246.JPEG,959,carbonara,959,carbonara,0.8859,1
+247.JPEG,722,ping-pong ball,722,ping-pong ball,0.6543,1
+248.JPEG,358,polecat,361,skunk,0.8826,0
+249.JPEG,781,scoreboard,781,scoreboard,0.7915,1
+250.JPEG,759,reflex camera,759,reflex camera,0.8729,1
+251.JPEG,389,barracouta,2,great white shark,0.2520,0
+252.JPEG,273,dingo,273,dingo,0.8933,1
+253.JPEG,187,Yorkshire terrier,187,Yorkshire terrier,0.6998,1
+254.JPEG,472,canoe,472,canoe,0.7286,1
+255.JPEG,411,apron,689,overskirt,0.8732,0
+256.JPEG,823,stethoscope,823,stethoscope,0.6951,1
+257.JPEG,515,cowboy hat,808,sombrero,0.0946,0
+258.JPEG,858,tile roof,858,tile roof,0.8798,1
+259.JPEG,323,monarch,323,monarch,0.8921,1
+260.JPEG,804,soap dispenser,804,soap dispenser,0.9324,1
+261.JPEG,679,necklace,679,necklace,0.7739,1
+262.JPEG,71,scorpion,71,scorpion,0.9075,1
+263.JPEG,822,steel drum,735,poncho,0.3487,0
+264.JPEG,682,obelisk,682,obelisk,0.8764,1
+265.JPEG,593,harmonica,593,harmonica,0.8645,1
+266.JPEG,536,dock,780,schooner,0.6154,0
+267.JPEG,200,Tibetan terrier,200,Tibetan terrier,0.6866,1
+268.JPEG,27,eft,26,common newt,0.8621,0
+269.JPEG,591,handkerchief,591,handkerchief,0.8703,1
+270.JPEG,465,bulletproof vest,465,bulletproof vest,0.6341,1
+271.JPEG,197,giant schnauzer,233,Bouvier des Flandres,0.3364,0
+272.JPEG,236,Doberman,236,Doberman,0.8417,1
+273.JPEG,735,poncho,474,cardigan,0.7248,0
+274.JPEG,393,anemone fish,983,scuba diver,0.6457,0
+275.JPEG,8,hen,8,hen,0.8773,1
+276.JPEG,632,loudspeaker,632,loudspeaker,0.8194,1
+277.JPEG,339,sorrel,339,sorrel,0.8590,1
+278.JPEG,170,Irish wolfhound,170,Irish wolfhound,0.8956,1
+279.JPEG,817,sports car,817,sports car,0.6772,1
+280.JPEG,687,organ,687,organ,0.9089,1
+281.JPEG,492,chest,492,chest,0.9246,1
+282.JPEG,930,French loaf,930,French loaf,0.8991,1
+283.JPEG,746,puck,746,puck,0.8880,1
+284.JPEG,46,green lizard,46,green lizard,0.9009,1
+285.JPEG,436,beach wagon,436,beach wagon,0.8738,1
+286.JPEG,567,frying pan,567,frying pan,0.5632,1
+287.JPEG,983,scuba diver,983,scuba diver,0.7874,1
+288.JPEG,944,artichoke,944,artichoke,0.8606,1
+289.JPEG,555,fire engine,555,fire engine,0.7085,1
+290.JPEG,559,folding chair,559,folding chair,0.8260,1
+291.JPEG,705,passenger car,705,passenger car,0.7839,1
+292.JPEG,446,binder,499,cleaver,0.5574,0
+293.JPEG,916,web site,916,web site,0.9280,1
+294.JPEG,303,long-horned beetle,304,leaf beetle,0.7642,0
+295.JPEG,353,gazelle,353,gazelle,0.8920,1
+296.JPEG,441,beer glass,966,red wine,0.6109,0
+297.JPEG,346,water buffalo,346,water buffalo,0.8847,1
+298.JPEG,55,green snake,64,green mamba,0.7596,0
+299.JPEG,788,shoe shop,788,shoe shop,0.8879,1
+300.JPEG,721,pillow,721,pillow,0.8499,1
+301.JPEG,898,water bottle,898,water bottle,0.6546,1
+302.JPEG,177,Scottish deerhound,170,Irish wolfhound,0.7109,0
+303.JPEG,90,lorikeet,90,lorikeet,0.8788,1
+304.JPEG,215,Brittany spaniel,215,Brittany spaniel,0.8818,1
+305.JPEG,904,window screen,904,window screen,0.1812,1
+306.JPEG,623,letter opener,499,cleaver,0.4226,0
+307.JPEG,495,china cabinet,495,china cabinet,0.8406,1
+308.JPEG,953,pineapple,945,bell pepper,0.4870,0
+309.JPEG,917,comic book,917,comic book,0.4751,1
+310.JPEG,290,jaguar,290,jaguar,0.8282,1
+311.JPEG,789,shoji,789,shoji,0.7864,1
+312.JPEG,527,desktop computer,664,monitor,0.3644,0
+313.JPEG,538,dome,538,dome,0.5417,1
+314.JPEG,750,quilt,750,quilt,0.4713,1
+315.JPEG,419,Band Aid,419,Band Aid,0.9300,1
+316.JPEG,855,thimble,855,thimble,0.9013,1
+317.JPEG,657,missile,744,projectile,0.4852,0
+318.JPEG,184,Irish terrier,184,Irish terrier,0.9308,1
+319.JPEG,98,red-breasted merganser,98,red-breasted merganser,0.9073,1
+320.JPEG,937,broccoli,938,cauliflower,0.9050,0
+321.JPEG,961,dough,961,dough,0.4290,1
+322.JPEG,103,platypus,103,platypus,0.7975,1
+323.JPEG,130,flamingo,130,flamingo,0.8908,1
+324.JPEG,242,boxer,243,bull mastiff,0.7819,0
+325.JPEG,68,sidewinder,68,sidewinder,0.5432,1
+326.JPEG,558,flute,683,oboe,0.7403,0
+327.JPEG,164,bluetick,164,bluetick,0.1763,1
+328.JPEG,276,hyena,276,hyena,0.8380,1
+329.JPEG,965,burrito,965,burrito,0.6185,1
+330.JPEG,105,koala,105,koala,0.8876,1
+331.JPEG,759,reflex camera,759,reflex camera,0.9004,1
+332.JPEG,828,strainer,828,strainer,0.5635,1
+333.JPEG,154,Pekinese,154,Pekinese,0.7790,1
+334.JPEG,543,dumbbell,543,dumbbell,0.8924,1
+335.JPEG,971,bubble,971,bubble,0.7993,1
+336.JPEG,499,cleaver,499,cleaver,0.9368,1
+337.JPEG,32,tailed frog,32,tailed frog,0.8108,1
+338.JPEG,514,cowboy boot,689,overskirt,0.0990,0
+339.JPEG,764,rifle,558,flute,0.6889,0
+340.JPEG,350,ibex,350,ibex,0.9075,1
+341.JPEG,813,spatula,813,spatula,0.4134,1
+342.JPEG,504,coffee mug,968,cup,0.7887,0
+343.JPEG,217,English springer,217,English springer,0.7025,1
+344.JPEG,362,badger,362,badger,0.8779,1
+345.JPEG,537,dogsled,537,dogsled,0.8666,1
+346.JPEG,482,cassette player,848,tape player,0.6222,0
+347.JPEG,387,lesser panda,387,lesser panda,0.8546,1
+348.JPEG,768,rugby ball,768,rugby ball,0.8946,1
+349.JPEG,233,Bouvier des Flandres,267,standard poodle,0.4092,0
+350.JPEG,629,lipstick,629,lipstick,0.8834,1
+351.JPEG,250,Siberian husky,250,Siberian husky,0.4005,1
+352.JPEG,241,EntleBucher,241,EntleBucher,0.8580,1
+353.JPEG,864,tow truck,864,tow truck,0.6275,1
+354.JPEG,838,sunscreen,838,sunscreen,0.3686,1
+355.JPEG,721,pillow,455,bottlecap,0.8729,0
+356.JPEG,797,sleeping bag,735,poncho,0.8333,0
+357.JPEG,762,restaurant,762,restaurant,0.8148,1
+358.JPEG,56,king snake,56,king snake,0.8932,1
+359.JPEG,828,strainer,599,honeycomb,0.6910,0
+360.JPEG,494,chime,494,chime,0.9051,1
+361.JPEG,144,pelican,144,pelican,0.8814,1
+362.JPEG,531,digital watch,507,combination lock,0.4641,0
+363.JPEG,113,snail,113,snail,0.8977,1
+364.JPEG,988,acorn,988,acorn,0.8714,1
+365.JPEG,433,bathing cap,433,bathing cap,0.8888,1
+366.JPEG,705,passenger car,705,passenger car,0.8948,1
+367.JPEG,771,safe,771,safe,0.7918,1
+368.JPEG,882,vacuum,882,vacuum,0.5571,1
+369.JPEG,554,fireboat,554,fireboat,0.8810,1
+370.JPEG,330,wood rabbit,330,wood rabbit,0.8391,1
+371.JPEG,295,American black bear,295,American black bear,0.8167,1
+372.JPEG,353,gazelle,353,gazelle,0.8873,1
+373.JPEG,986,yellow lady's slipper,986,yellow lady's slipper,0.8295,1
+374.JPEG,411,apron,414,backpack,0.7314,0
+375.JPEG,929,ice lolly,929,ice lolly,0.4361,1
+376.JPEG,195,Boston bull,195,Boston bull,0.7132,1
+377.JPEG,640,manhole cover,640,manhole cover,0.8688,1
+378.JPEG,720,pill bottle,720,pill bottle,0.9111,1
+379.JPEG,937,broccoli,937,broccoli,0.8582,1
+380.JPEG,75,black widow,75,black widow,0.8747,1
+381.JPEG,43,frilled lizard,43,frilled lizard,0.3642,1
+382.JPEG,831,studio couch,831,studio couch,0.9070,1
+383.JPEG,169,borzoi,169,borzoi,0.8390,1
+384.JPEG,230,Shetland sheepdog,230,Shetland sheepdog,0.7943,1
+385.JPEG,144,pelican,144,pelican,0.8862,1
+386.JPEG,823,stethoscope,823,stethoscope,0.6854,1
+387.JPEG,124,crayfish,124,crayfish,0.8482,1
+388.JPEG,938,cauliflower,938,cauliflower,0.8610,1
+389.JPEG,905,window shade,905,window shade,0.7108,1
+390.JPEG,450,bobsled,450,bobsled,0.8458,1
+391.JPEG,795,ski,795,ski,0.8980,1
+392.JPEG,756,rain barrel,427,barrel,0.6493,0
+393.JPEG,322,ringlet,322,ringlet,0.8998,1
+394.JPEG,321,admiral,321,admiral,0.8580,1
+395.JPEG,339,sorrel,339,sorrel,0.9102,1
+396.JPEG,445,bikini,445,bikini,0.6836,1
+397.JPEG,991,coral fungus,991,coral fungus,0.8703,1
+398.JPEG,91,coucal,91,coucal,0.9008,1
+399.JPEG,141,redshank,141,redshank,0.8695,1
+400.JPEG,66,horned viper,66,horned viper,0.8475,1
+401.JPEG,64,green mamba,64,green mamba,0.6987,1
+402.JPEG,616,knot,616,knot,0.8704,1
+403.JPEG,173,Ibizan hound,172,whippet,0.7485,0
+404.JPEG,165,black-and-tan coonhound,165,black-and-tan coonhound,0.9106,1
+405.JPEG,851,television,851,television,0.7459,1
+406.JPEG,907,wine bottle,907,wine bottle,0.3564,1
+407.JPEG,688,oscilloscope,688,oscilloscope,0.9105,1
+408.JPEG,85,quail,85,quail,0.7156,1
+409.JPEG,866,tractor,866,tractor,0.7508,1
+410.JPEG,882,vacuum,882,vacuum,0.5567,1
+411.JPEG,785,seat belt,445,bikini,0.2800,0
+412.JPEG,934,hotdog,934,hotdog,0.8966,1
+413.JPEG,680,nipple,680,nipple,0.6847,1
+414.JPEG,704,parking meter,704,parking meter,0.8753,1
+415.JPEG,493,chiffonier,896,washbasin,0.5715,0
+416.JPEG,370,guenon,370,guenon,0.8149,1
+417.JPEG,444,bicycle-built-for-two,444,bicycle-built-for-two,0.7904,1
+418.JPEG,659,mixing bowl,659,mixing bowl,0.9083,1
+419.JPEG,956,custard apple,956,custard apple,0.8933,1
+420.JPEG,199,Scotch terrier,199,Scotch terrier,0.8776,1
+421.JPEG,210,German short-haired pointer,210,German short-haired pointer,0.7576,1
+422.JPEG,549,envelope,692,packet,0.3844,0
+423.JPEG,174,Norwegian elkhound,174,Norwegian elkhound,0.9137,1
+424.JPEG,583,guillotine,583,guillotine,0.8436,1
+425.JPEG,303,long-horned beetle,303,long-horned beetle,0.9089,1
+426.JPEG,2,great white shark,2,great white shark,0.8506,1
+427.JPEG,700,paper towel,700,paper towel,0.8381,1
+428.JPEG,886,vending machine,886,vending machine,0.8910,1
+429.JPEG,94,hummingbird,94,hummingbird,0.9061,1
+430.JPEG,47,African chameleon,47,African chameleon,0.8790,1
+431.JPEG,516,cradle,516,cradle,0.5219,1
+432.JPEG,886,vending machine,886,vending machine,0.8956,1
+433.JPEG,231,collie,231,collie,0.6979,1
+434.JPEG,936,head cabbage,936,head cabbage,0.8821,1
+435.JPEG,899,water jug,647,measuring cup,0.7177,0
+436.JPEG,115,sea slug,115,sea slug,0.7713,1
+437.JPEG,582,grocery store,582,grocery store,0.3975,1
+438.JPEG,21,kite,21,kite,0.7032,1
+439.JPEG,480,cash machine,480,cash machine,0.4791,1
+440.JPEG,540,drilling platform,540,drilling platform,0.6256,1
+441.JPEG,279,Arctic fox,279,Arctic fox,0.8869,1
+442.JPEG,711,perfume,711,perfume,0.8084,1
+443.JPEG,49,African crocodile,49,African crocodile,0.8781,1
+444.JPEG,387,lesser panda,387,lesser panda,0.8882,1
+445.JPEG,981,ballplayer,862,torch,0.5819,0
+446.JPEG,580,greenhouse,580,greenhouse,0.9393,1
+447.JPEG,770,running shoe,806,sock,0.6516,0
+448.JPEG,824,stole,824,stole,0.8715,1
+449.JPEG,481,cassette,481,cassette,0.6386,1
+450.JPEG,238,Greater Swiss Mountain dog,238,Greater Swiss Mountain dog,0.8943,1
+451.JPEG,378,capuchin,378,capuchin,0.8505,1
+452.JPEG,141,redshank,141,redshank,0.8695,1
+453.JPEG,389,barracouta,389,barracouta,0.8709,1
+454.JPEG,624,library,624,library,0.7715,1
+455.JPEG,785,seat belt,785,seat belt,0.9304,1
+456.JPEG,545,electric fan,632,loudspeaker,0.4594,0
+457.JPEG,816,spindle,816,spindle,0.7840,1
+458.JPEG,947,mushroom,992,agaric,0.6870,0
+459.JPEG,395,gar,395,gar,0.8704,1
+460.JPEG,186,Norwich terrier,192,cairn,0.4720,0
+461.JPEG,304,leaf beetle,304,leaf beetle,0.8523,1
+462.JPEG,448,birdhouse,448,birdhouse,0.9065,1
+463.JPEG,778,scale,778,scale,0.8418,1
+464.JPEG,804,soap dispenser,641,maraca,0.2258,0
+465.JPEG,839,suspension bridge,839,suspension bridge,0.5584,1
+466.JPEG,280,grey fox,280,grey fox,0.8381,1
+467.JPEG,815,spider web,815,spider web,0.7855,1
+468.JPEG,754,radio,754,radio,0.6416,1
+469.JPEG,725,pitcher,901,whiskey jug,0.8325,0
+470.JPEG,806,sock,806,sock,0.8747,1
+471.JPEG,388,giant panda,388,giant panda,0.8748,1
+472.JPEG,244,Tibetan mastiff,244,Tibetan mastiff,0.8803,1
+473.JPEG,700,paper towel,700,paper towel,0.5993,1
+474.JPEG,784,screwdriver,929,ice lolly,0.9306,0
+475.JPEG,760,refrigerator,760,refrigerator,0.5439,1
+476.JPEG,530,digital clock,530,digital clock,0.9232,1
+477.JPEG,580,greenhouse,580,greenhouse,0.8781,1
+478.JPEG,8,hen,8,hen,0.8655,1
+479.JPEG,447,binoculars,447,binoculars,0.9273,1
+480.JPEG,685,odometer,685,odometer,0.8945,1
+481.JPEG,49,African crocodile,49,African crocodile,0.7521,1
+482.JPEG,487,cellular telephone,507,combination lock,0.5221,0
+483.JPEG,276,hyena,276,hyena,0.8658,1
+484.JPEG,526,desk,526,desk,0.4536,1
+485.JPEG,440,beer bottle,440,beer bottle,0.9172,1
+486.JPEG,154,Pekinese,154,Pekinese,0.8947,1
+487.JPEG,841,sweatshirt,841,sweatshirt,0.4836,1
+488.JPEG,824,stole,824,stole,0.6797,1
+489.JPEG,114,slug,114,slug,0.9430,1
+490.JPEG,993,gyromitra,993,gyromitra,0.9128,1
+491.JPEG,205,flat-coated retriever,205,flat-coated retriever,0.8632,1
+492.JPEG,243,bull mastiff,243,bull mastiff,0.8640,1
+493.JPEG,422,barbell,422,barbell,0.8734,1
+494.JPEG,45,Gila monster,45,Gila monster,0.8918,1
+495.JPEG,610,jersey,610,jersey,0.8035,1
+496.JPEG,227,kelpie,227,kelpie,0.8347,1
+497.JPEG,29,axolotl,29,axolotl,0.8688,1
+498.JPEG,570,gasmask,570,gasmask,0.6477,1
+499.JPEG,685,odometer,685,odometer,0.8769,1
+500.JPEG,937,broccoli,937,broccoli,0.8869,1
+501.JPEG,401,accordion,401,accordion,0.8746,1
+502.JPEG,569,garbage truck,569,garbage truck,0.8773,1
+503.JPEG,23,vulture,23,vulture,0.8912,1
+504.JPEG,636,mailbag,636,mailbag,0.7425,1
+505.JPEG,818,spotlight,743,prison,0.1617,0
+506.JPEG,308,fly,308,fly,0.8952,1
+507.JPEG,735,poncho,642,marimba,0.7065,0
+508.JPEG,172,whippet,172,whippet,0.7868,1
+509.JPEG,837,sunglasses,837,sunglasses,0.8982,1
+510.JPEG,882,vacuum,882,vacuum,0.4931,1
+511.JPEG,233,Bouvier des Flandres,233,Bouvier des Flandres,0.8752,1
+512.JPEG,364,three-toed sloth,364,three-toed sloth,0.8809,1
+513.JPEG,230,Shetland sheepdog,230,Shetland sheepdog,0.7922,1
+514.JPEG,3,tiger shark,3,tiger shark,0.8197,1
+515.JPEG,688,oscilloscope,688,oscilloscope,0.9060,1
+516.JPEG,790,shopping basket,790,shopping basket,0.5916,1
+517.JPEG,39,common iguana,39,common iguana,0.8789,1
+518.JPEG,313,walking stick,313,walking stick,0.7073,1
+519.JPEG,212,English setter,212,English setter,0.8796,1
+520.JPEG,2,great white shark,2,great white shark,0.8641,1
+521.JPEG,538,dome,538,dome,0.6775,1
+522.JPEG,983,scuba diver,983,scuba diver,0.8251,1
+523.JPEG,438,beaker,438,beaker,0.9182,1
+524.JPEG,729,plate rack,729,plate rack,0.9003,1
+525.JPEG,271,red wolf,274,dhole,0.7470,0
+526.JPEG,598,home theater,632,loudspeaker,0.8878,0
+527.JPEG,99,goose,99,goose,0.8282,1
+528.JPEG,738,pot,738,pot,0.8596,1
+529.JPEG,101,tusker,101,tusker,0.8983,1
+530.JPEG,194,Dandie Dinmont,194,Dandie Dinmont,0.8021,1
+531.JPEG,99,goose,921,book jacket,0.9480,0
+532.JPEG,512,corkscrew,512,corkscrew,0.8639,1
+533.JPEG,66,horned viper,54,hognose snake,0.4517,0
+534.JPEG,734,police van,734,police van,0.8966,1
+535.JPEG,453,bookcase,548,entertainment center,0.7488,0
+536.JPEG,983,scuba diver,983,scuba diver,0.3255,1
+537.JPEG,208,Labrador retriever,264,Cardigan,0.1289,0
+538.JPEG,503,cocktail shaker,503,cocktail shaker,0.8084,1
+539.JPEG,955,jackfruit,955,jackfruit,0.9078,1
+540.JPEG,757,recreational vehicle,468,cab,0.5914,0
+541.JPEG,879,umbrella,667,mortarboard,0.1559,0
+542.JPEG,386,African elephant,386,African elephant,0.4725,1
+543.JPEG,303,long-horned beetle,303,long-horned beetle,0.8797,1
+544.JPEG,404,airliner,812,space shuttle,0.5732,0
+545.JPEG,452,bonnet,452,bonnet,0.9229,1
+546.JPEG,783,screw,783,screw,0.9001,1
+547.JPEG,67,diamondback,67,diamondback,0.8961,1
+548.JPEG,765,rocking chair,765,rocking chair,0.8149,1
+549.JPEG,579,grand piano,579,grand piano,0.5679,1
+550.JPEG,981,ballplayer,981,ballplayer,0.8709,1
+551.JPEG,465,bulletproof vest,465,bulletproof vest,0.8836,1
+552.JPEG,554,fireboat,554,fireboat,0.9309,1
+553.JPEG,412,ashcan,43,frilled lizard,0.2437,0
+554.JPEG,314,cockroach,314,cockroach,0.8423,1
+555.JPEG,936,head cabbage,943,cucumber,0.5014,0
+556.JPEG,167,English foxhound,167,English foxhound,0.7846,1
+557.JPEG,850,teddy,850,teddy,0.7504,1
+558.JPEG,991,coral fungus,991,coral fungus,0.8936,1
+559.JPEG,476,carousel,476,carousel,0.9431,1
+560.JPEG,920,traffic light,920,traffic light,0.9077,1
+561.JPEG,758,reel,758,reel,0.6908,1
+562.JPEG,573,go-kart,573,go-kart,0.8983,1
+563.JPEG,24,great grey owl,24,great grey owl,0.8789,1
+564.JPEG,915,yurt,915,yurt,0.8912,1
+565.JPEG,185,Norfolk terrier,187,Yorkshire terrier,0.8233,0
+566.JPEG,403,aircraft carrier,403,aircraft carrier,0.8973,1
+567.JPEG,437,beacon,437,beacon,0.4446,1
+568.JPEG,764,rifle,764,rifle,0.6399,1
+569.JPEG,42,agama,42,agama,0.7642,1
+570.JPEG,992,agaric,992,agaric,0.7914,1
+571.JPEG,808,sombrero,515,cowboy hat,0.4747,0
+572.JPEG,867,trailer truck,867,trailer truck,0.7016,1
+573.JPEG,858,tile roof,663,monastery,0.5466,0
+574.JPEG,979,valley,970,alp,0.3336,0
+575.JPEG,341,hog,341,hog,0.8686,1
+576.JPEG,8,hen,8,hen,0.9019,1
+577.JPEG,116,chiton,116,chiton,0.2508,1
+578.JPEG,867,trailer truck,867,trailer truck,0.9140,1
+579.JPEG,747,punching bag,854,theater curtain,0.1080,0
+580.JPEG,628,liner,628,liner,0.7972,1
+581.JPEG,272,coyote,280,grey fox,0.6696,0
+582.JPEG,998,ear,998,ear,0.6083,1
+583.JPEG,511,convertible,511,convertible,0.6997,1
+584.JPEG,417,balloon,417,balloon,0.8949,1
+585.JPEG,550,espresso maker,550,espresso maker,0.8572,1
+586.JPEG,129,spoonbill,129,spoonbill,0.9099,1
+587.JPEG,937,broccoli,937,broccoli,0.8864,1
+588.JPEG,650,microphone,819,stage,0.7205,0
+589.JPEG,755,radio telescope,755,radio telescope,0.8904,1
+590.JPEG,502,clog,502,clog,0.3314,1
+591.JPEG,560,football helmet,560,football helmet,0.8980,1
+592.JPEG,25,European fire salamander,25,European fire salamander,0.8327,1
+593.JPEG,406,altar,406,altar,0.8825,1
+594.JPEG,964,potpie,964,potpie,0.4303,1
+595.JPEG,911,wool,911,wool,0.8233,1
+596.JPEG,574,golf ball,574,golf ball,0.8225,1
+597.JPEG,936,head cabbage,936,head cabbage,0.8792,1
+598.JPEG,509,confectionery,509,confectionery,0.4757,1
+599.JPEG,658,mitten,658,mitten,0.8510,1
+600.JPEG,772,safety pin,616,knot,0.3445,0
+601.JPEG,457,bow tie,457,bow tie,0.7874,1
+602.JPEG,853,thatch,853,thatch,0.8733,1
+603.JPEG,91,coucal,91,coucal,0.8891,1
+604.JPEG,656,minivan,656,minivan,0.5720,1
+605.JPEG,690,oxcart,690,oxcart,0.7455,1
+606.JPEG,980,volcano,980,volcano,0.9042,1
+607.JPEG,995,earthstar,995,earthstar,0.8957,1
+608.JPEG,73,barn spider,74,garden spider,0.7178,0
+609.JPEG,843,swing,843,swing,0.7952,1
+610.JPEG,312,cricket,311,grasshopper,0.6871,0
+611.JPEG,436,beach wagon,581,grille,0.8229,0
+612.JPEG,265,toy poodle,265,toy poodle,0.2655,1
+613.JPEG,226,briard,257,Great Pyrenees,0.8544,0
+614.JPEG,502,clog,502,clog,0.9250,1
+615.JPEG,754,radio,848,tape player,0.7111,0
+616.JPEG,419,Band Aid,633,loupe,0.2019,0
+617.JPEG,792,shovel,792,shovel,0.8662,1
+618.JPEG,42,agama,42,agama,0.8303,1
+619.JPEG,520,crib,520,crib,0.7614,1
+620.JPEG,944,artichoke,944,artichoke,0.8527,1
+621.JPEG,242,boxer,245,French bulldog,0.9184,0
+622.JPEG,348,ram,348,ram,0.8718,1
+623.JPEG,995,earthstar,995,earthstar,0.8926,1
+624.JPEG,207,golden retriever,207,golden retriever,0.8214,1
+625.JPEG,966,red wine,966,red wine,0.4461,1
+626.JPEG,503,cocktail shaker,828,strainer,0.3467,0
+627.JPEG,398,abacus,398,abacus,0.9069,1
+628.JPEG,210,German short-haired pointer,210,German short-haired pointer,0.8351,1
+629.JPEG,119,rock crab,116,chiton,0.6118,0
+630.JPEG,447,binoculars,447,binoculars,0.6147,1
+631.JPEG,440,beer bottle,440,beer bottle,0.8571,1
+632.JPEG,411,apron,411,apron,0.9290,1
+633.JPEG,808,sombrero,879,umbrella,0.8146,0
+634.JPEG,371,patas,366,gorilla,0.8305,0
+635.JPEG,189,Lakeland terrier,189,Lakeland terrier,0.8660,1
+636.JPEG,396,lionfish,396,lionfish,0.8607,1
+637.JPEG,891,waffle iron,891,waffle iron,0.9157,1
+638.JPEG,990,buckeye,990,buckeye,0.9124,1
+639.JPEG,410,apiary,410,apiary,0.8813,1
+640.JPEG,743,prison,743,prison,0.8994,1
+641.JPEG,783,screw,783,screw,0.7984,1
+642.JPEG,215,Brittany spaniel,164,bluetick,0.2792,0
+643.JPEG,911,wool,806,sock,0.6022,0
+644.JPEG,403,aircraft carrier,403,aircraft carrier,0.8346,1
+645.JPEG,22,bald eagle,22,bald eagle,0.8939,1
+646.JPEG,786,sewing machine,786,sewing machine,0.9013,1
+647.JPEG,950,orange,950,orange,0.8112,1
+648.JPEG,681,notebook,526,desk,0.3889,0
+649.JPEG,902,whistle,902,whistle,0.8206,1
+650.JPEG,338,guinea pig,338,guinea pig,0.8825,1
+651.JPEG,871,trimaran,484,catamaran,0.4443,0
+652.JPEG,285,Egyptian cat,285,Egyptian cat,0.8353,1
+653.JPEG,488,chain,488,chain,0.9007,1
+654.JPEG,377,marmoset,382,squirrel monkey,0.7967,0
+655.JPEG,87,African grey,87,African grey,0.8772,1
+656.JPEG,831,studio couch,831,studio couch,0.6589,1
+657.JPEG,271,red wolf,271,red wolf,0.8718,1
+658.JPEG,952,fig,952,fig,0.9008,1
+659.JPEG,833,submarine,833,submarine,0.9005,1
+660.JPEG,785,seat belt,785,seat belt,0.9292,1
+661.JPEG,823,stethoscope,823,stethoscope,0.8957,1
+662.JPEG,662,modem,742,printer,0.1022,0
+663.JPEG,990,buckeye,990,buckeye,0.7573,1
+664.JPEG,536,dock,536,dock,0.9638,1
+665.JPEG,236,Doberman,236,Doberman,0.2667,1
+666.JPEG,9,ostrich,9,ostrich,0.9197,1
+667.JPEG,680,nipple,680,nipple,0.8869,1
+668.JPEG,111,nematode,111,nematode,0.8291,1
+669.JPEG,799,sliding door,799,sliding door,0.9436,1
+670.JPEG,351,hartebeest,351,hartebeest,0.8940,1
+671.JPEG,68,sidewinder,61,boa constrictor,0.2228,0
+672.JPEG,211,vizsla,211,vizsla,0.7561,1
+673.JPEG,642,marimba,642,marimba,0.9720,1
+674.JPEG,189,Lakeland terrier,189,Lakeland terrier,0.9223,1
+675.JPEG,685,odometer,685,odometer,0.8311,1
+676.JPEG,927,trifle,927,trifle,0.8807,1
+677.JPEG,846,table lamp,846,table lamp,0.8781,1
+678.JPEG,831,studio couch,831,studio couch,0.5996,1
+679.JPEG,661,Model T,661,Model T,0.8826,1
+680.JPEG,57,garter snake,57,garter snake,0.8899,1
+681.JPEG,264,Cardigan,264,Cardigan,0.4006,1
+682.JPEG,28,spotted salamander,6,stingray,0.5089,0
+683.JPEG,848,tape player,485,CD player,0.4988,0
+684.JPEG,727,planetarium,727,planetarium,0.8599,1
+685.JPEG,175,otterhound,175,otterhound,0.6558,1
+686.JPEG,337,beaver,337,beaver,0.8781,1
+687.JPEG,262,Brabancon griffon,262,Brabancon griffon,0.8972,1
+688.JPEG,376,proboscis monkey,376,proboscis monkey,0.8855,1
+689.JPEG,314,cockroach,861,toilet seat,0.8144,0
+690.JPEG,325,sulphur butterfly,325,sulphur butterfly,0.8496,1
+691.JPEG,627,limousine,627,limousine,0.8823,1
+692.JPEG,73,barn spider,77,wolf spider,0.4992,0
+693.JPEG,207,golden retriever,179,Staffordshire bullterrier,0.3396,0
+694.JPEG,31,tree frog,31,tree frog,0.8633,1
+695.JPEG,130,flamingo,130,flamingo,0.8816,1
+696.JPEG,880,unicycle,880,unicycle,0.8767,1
+697.JPEG,298,mongoose,298,mongoose,0.8852,1
+698.JPEG,723,pinwheel,723,pinwheel,0.8866,1
+699.JPEG,159,Rhodesian ridgeback,159,Rhodesian ridgeback,0.8991,1
+700.JPEG,251,dalmatian,251,dalmatian,0.8200,1
+701.JPEG,121,king crab,121,king crab,0.8696,1
+702.JPEG,469,caldron,469,caldron,0.8254,1
+703.JPEG,575,golfcart,575,golfcart,0.8974,1
+704.JPEG,459,brassiere,982,groom,0.6951,0
+705.JPEG,299,meerkat,299,meerkat,0.8090,1
+706.JPEG,173,Ibizan hound,173,Ibizan hound,0.5888,1
+707.JPEG,843,swing,843,swing,0.9213,1
+708.JPEG,191,Airedale,191,Airedale,0.8639,1
+709.JPEG,280,grey fox,280,grey fox,0.7054,1
+710.JPEG,734,police van,734,police van,0.8834,1
+711.JPEG,35,mud turtle,35,mud turtle,0.8470,1
+712.JPEG,430,basketball,430,basketball,0.8052,1
+713.JPEG,236,Doberman,236,Doberman,0.4368,1
+714.JPEG,989,hip,989,hip,0.8693,1
+715.JPEG,145,king penguin,145,king penguin,0.8936,1
+716.JPEG,495,china cabinet,495,china cabinet,0.8708,1
+717.JPEG,547,electric locomotive,547,electric locomotive,0.8405,1
+718.JPEG,381,spider monkey,378,capuchin,0.5814,0
+719.JPEG,953,pineapple,953,pineapple,0.8871,1
+720.JPEG,422,barbell,422,barbell,0.8694,1
+721.JPEG,468,cab,468,cab,0.9072,1
+722.JPEG,884,vault,884,vault,0.4780,1
+723.JPEG,107,jellyfish,107,jellyfish,0.8949,1
+724.JPEG,152,Japanese spaniel,152,Japanese spaniel,0.9016,1
+725.JPEG,16,bulbul,16,bulbul,0.8979,1
+726.JPEG,620,laptop,681,notebook,0.5660,0
+727.JPEG,313,walking stick,313,walking stick,0.8297,1
+728.JPEG,970,alp,795,ski,0.6597,0
+729.JPEG,171,Italian greyhound,171,Italian greyhound,0.9190,1
+730.JPEG,171,Italian greyhound,171,Italian greyhound,0.7511,1
+731.JPEG,848,tape player,632,loudspeaker,0.3498,0
+732.JPEG,684,ocarina,684,ocarina,0.9003,1
+733.JPEG,124,crayfish,124,crayfish,0.5871,1
+734.JPEG,410,apiary,410,apiary,0.8745,1
+735.JPEG,72,black and gold garden spider,72,black and gold garden spider,0.7044,1
+736.JPEG,119,rock crab,119,rock crab,0.7840,1
+737.JPEG,131,little blue heron,131,little blue heron,0.8110,1
+738.JPEG,116,chiton,116,chiton,0.7987,1
+739.JPEG,928,ice cream,928,ice cream,0.8575,1
+740.JPEG,440,beer bottle,441,beer glass,0.6538,0
+741.JPEG,190,Sealyham terrier,190,Sealyham terrier,0.8420,1
+742.JPEG,292,tiger,292,tiger,0.7387,1
+743.JPEG,123,spiny lobster,123,spiny lobster,0.8492,1
+744.JPEG,590,hand-held computer,681,notebook,0.5211,0
+745.JPEG,333,hamster,333,hamster,0.8828,1
+746.JPEG,554,fireboat,554,fireboat,0.8991,1
+747.JPEG,395,gar,395,gar,0.8956,1
+748.JPEG,360,otter,357,mink,0.6269,0
+749.JPEG,332,Angora,258,Samoyed,0.2747,0
+750.JPEG,85,quail,85,quail,0.8124,1
+751.JPEG,446,binder,563,fountain pen,0.6388,0
+752.JPEG,350,ibex,350,ibex,0.8235,1
+753.JPEG,71,scorpion,71,scorpion,0.8690,1
+754.JPEG,549,envelope,893,wallet,0.4465,0
+755.JPEG,209,Chesapeake Bay retriever,159,Rhodesian ridgeback,0.9248,0
+756.JPEG,885,velvet,854,theater curtain,0.8871,0
+757.JPEG,302,ground beetle,302,ground beetle,0.7746,1
+758.JPEG,119,rock crab,118,Dungeness crab,0.7847,0
+759.JPEG,872,tripod,745,projector,0.4019,0
+760.JPEG,583,guillotine,583,guillotine,0.8688,1
+761.JPEG,793,shower cap,793,shower cap,0.9137,1
+762.JPEG,47,African chameleon,47,African chameleon,0.8966,1
+763.JPEG,868,tray,868,tray,0.9523,1
+764.JPEG,15,robin,15,robin,0.8581,1
+765.JPEG,802,snowmobile,802,snowmobile,0.8936,1
+766.JPEG,898,water bottle,899,water jug,0.3852,0
+767.JPEG,174,Norwegian elkhound,174,Norwegian elkhound,0.8744,1
+768.JPEG,764,rifle,596,hatchet,0.2724,0
+769.JPEG,11,goldfinch,11,goldfinch,0.9101,1
+770.JPEG,703,park bench,703,park bench,0.8726,1
+771.JPEG,283,Persian cat,283,Persian cat,0.7592,1
+772.JPEG,311,grasshopper,311,grasshopper,0.8390,1
+773.JPEG,249,malamute,249,malamute,0.6232,1
+774.JPEG,455,bottlecap,455,bottlecap,0.8989,1
+775.JPEG,223,schipperke,223,schipperke,0.9126,1
+776.JPEG,436,beach wagon,468,cab,0.6710,0
+777.JPEG,168,redbone,168,redbone,0.8823,1
+778.JPEG,446,binder,446,binder,0.9515,1
+779.JPEG,195,Boston bull,195,Boston bull,0.8526,1
+780.JPEG,185,Norfolk terrier,185,Norfolk terrier,0.8175,1
+781.JPEG,639,maillot tank suit,639,maillot tank suit,0.3989,1
+782.JPEG,316,cicada,316,cicada,0.8937,1
+783.JPEG,377,marmoset,377,marmoset,0.6698,1
+784.JPEG,276,hyena,276,hyena,0.8662,1
+785.JPEG,394,sturgeon,395,gar,0.4194,0
+786.JPEG,988,acorn,988,acorn,0.8130,1
+787.JPEG,263,Pembroke,263,Pembroke,0.9059,1
+788.JPEG,38,banded gecko,38,banded gecko,0.8889,1
+789.JPEG,33,loggerhead,33,loggerhead,0.8734,1
+790.JPEG,421,bannister,421,bannister,0.9459,1
+791.JPEG,56,king snake,56,king snake,0.8703,1
+792.JPEG,228,komondor,228,komondor,0.8824,1
+793.JPEG,550,espresso maker,550,espresso maker,0.8900,1
+794.JPEG,344,hippopotamus,344,hippopotamus,0.8145,1
+795.JPEG,949,strawberry,954,banana,0.3968,0
+796.JPEG,896,washbasin,896,washbasin,0.6281,1
+797.JPEG,341,hog,341,hog,0.8889,1
+798.JPEG,248,Eskimo dog,248,Eskimo dog,0.6194,1
+799.JPEG,654,minibus,654,minibus,0.9377,1
+800.JPEG,51,triceratops,51,triceratops,0.8850,1
+801.JPEG,186,Norwich terrier,186,Norwich terrier,0.5614,1
+802.JPEG,388,giant panda,388,giant panda,0.8883,1
+803.JPEG,817,sports car,817,sports car,0.8545,1
+804.JPEG,810,space bar,878,typewriter keyboard,0.7837,0
+805.JPEG,497,church,497,church,0.8590,1
+806.JPEG,7,cock,8,hen,0.8442,0
+807.JPEG,276,hyena,276,hyena,0.8720,1
+808.JPEG,87,African grey,87,African grey,0.8948,1
+809.JPEG,167,English foxhound,162,beagle,0.8072,0
+810.JPEG,478,carton,478,carton,0.5274,1
+811.JPEG,114,slug,114,slug,0.6348,1
+812.JPEG,30,bullfrog,30,bullfrog,0.7603,1
+813.JPEG,694,paddlewheel,694,paddlewheel,0.8925,1
+814.JPEG,652,military uniform,603,horse cart,0.3074,0
+815.JPEG,336,marmot,336,marmot,0.8800,1
+816.JPEG,714,pick,714,pick,0.8421,1
+817.JPEG,791,shopping cart,791,shopping cart,0.7448,1
+818.JPEG,290,jaguar,290,jaguar,0.8454,1
+819.JPEG,491,chain saw,491,chain saw,0.8984,1
+820.JPEG,15,robin,15,robin,0.3811,1
+821.JPEG,197,giant schnauzer,233,Bouvier des Flandres,0.8550,0
+822.JPEG,910,wooden spoon,616,knot,0.3157,0
+823.JPEG,523,crutch,523,crutch,0.9456,1
+824.JPEG,599,honeycomb,599,honeycomb,0.8640,1
+825.JPEG,152,Japanese spaniel,152,Japanese spaniel,0.7965,1
+826.JPEG,923,plate,923,plate,0.4511,1
+827.JPEG,915,yurt,580,greenhouse,0.4722,0
+828.JPEG,900,water tower,900,water tower,0.8915,1
+829.JPEG,904,window screen,904,window screen,0.5418,1
+830.JPEG,349,bighorn,349,bighorn,0.5491,1
+831.JPEG,492,chest,492,chest,0.8652,1
+832.JPEG,779,school bus,779,school bus,0.8890,1
+833.JPEG,809,soup bowl,809,soup bowl,0.8939,1
+834.JPEG,622,lens cap,622,lens cap,0.5954,1
+835.JPEG,385,Indian elephant,385,Indian elephant,0.5579,1
+836.JPEG,648,medicine chest,495,china cabinet,0.9174,0
+837.JPEG,338,guinea pig,338,guinea pig,0.8803,1
+838.JPEG,764,rifle,830,stretcher,0.1716,0
+839.JPEG,414,backpack,414,backpack,0.8492,1
+840.JPEG,903,wig,903,wig,0.7426,1
+841.JPEG,888,viaduct,888,viaduct,0.9007,1
+842.JPEG,783,screw,783,screw,0.9323,1
+843.JPEG,797,sleeping bag,797,sleeping bag,0.5678,1
+844.JPEG,101,tusker,101,tusker,0.8292,1
+845.JPEG,340,zebra,340,zebra,0.8968,1
+846.JPEG,631,lotion,551,face powder,0.1569,0
+847.JPEG,688,oscilloscope,688,oscilloscope,0.9083,1
+848.JPEG,227,kelpie,227,kelpie,0.8820,1
+849.JPEG,797,sleeping bag,797,sleeping bag,0.9136,1
+850.JPEG,220,Sussex spaniel,220,Sussex spaniel,0.9284,1
+851.JPEG,161,basset,166,Walker hound,0.5443,0
+852.JPEG,393,anemone fish,393,anemone fish,0.8362,1
+853.JPEG,139,ruddy turnstone,139,ruddy turnstone,0.8908,1
+854.JPEG,434,bath towel,434,bath towel,0.8985,1
+855.JPEG,634,lumbermill,634,lumbermill,0.8086,1
+856.JPEG,566,French horn,566,French horn,0.8194,1
+857.JPEG,611,jigsaw puzzle,611,jigsaw puzzle,0.9114,1
+858.JPEG,486,cello,486,cello,0.8910,1
+859.JPEG,689,overskirt,689,overskirt,0.3008,1
+860.JPEG,348,ram,348,ram,0.9088,1
+861.JPEG,832,stupa,832,stupa,0.8840,1
+862.JPEG,498,cinema,498,cinema,0.9067,1
+863.JPEG,908,wing,908,wing,0.8528,1
+864.JPEG,704,parking meter,704,parking meter,0.8525,1
+865.JPEG,15,robin,15,robin,0.8885,1
+866.JPEG,273,dingo,273,dingo,0.9248,1
+867.JPEG,543,dumbbell,543,dumbbell,0.8825,1
+868.JPEG,907,wine bottle,604,hourglass,0.6479,0
+869.JPEG,288,leopard,288,leopard,0.8789,1
+870.JPEG,48,Komodo dragon,48,Komodo dragon,0.9050,1
+871.JPEG,488,chain,488,chain,0.6065,1
+872.JPEG,402,acoustic guitar,402,acoustic guitar,0.7304,1
+873.JPEG,610,jersey,837,sunglasses,0.2991,0
+874.JPEG,429,baseball,981,ballplayer,0.1224,0
+875.JPEG,4,hammerhead,4,hammerhead,0.8726,1
+876.JPEG,506,coil,506,coil,0.4023,1
+877.JPEG,660,mobile home,660,mobile home,0.8781,1
+878.JPEG,165,black-and-tan coonhound,165,black-and-tan coonhound,0.5673,1
+879.JPEG,334,porcupine,334,porcupine,0.8767,1
+880.JPEG,770,running shoe,770,running shoe,0.9222,1
+881.JPEG,540,drilling platform,540,drilling platform,0.8206,1
+882.JPEG,284,Siamese cat,284,Siamese cat,0.8739,1
+883.JPEG,530,digital clock,530,digital clock,0.8879,1
+884.JPEG,515,cowboy hat,515,cowboy hat,0.6762,1
+885.JPEG,723,pinwheel,723,pinwheel,0.5882,1
+886.JPEG,414,backpack,636,mailbag,0.7645,0
+887.JPEG,373,macaque,370,guenon,0.4959,0
+888.JPEG,130,flamingo,130,flamingo,0.8785,1
+889.JPEG,90,lorikeet,90,lorikeet,0.8841,1
+890.JPEG,877,turnstile,877,turnstile,0.8398,1
+891.JPEG,941,acorn squash,941,acorn squash,0.9041,1
+892.JPEG,894,wardrobe,619,lampshade,0.5465,0
+893.JPEG,245,French bulldog,245,French bulldog,0.9085,1
+894.JPEG,77,wolf spider,77,wolf spider,0.7259,1
+895.JPEG,967,espresso,967,espresso,0.3914,1
+896.JPEG,6,stingray,6,stingray,0.8903,1
+897.JPEG,23,vulture,23,vulture,0.8780,1
+898.JPEG,862,torch,862,torch,0.9032,1
+899.JPEG,263,Pembroke,263,Pembroke,0.8570,1
+900.JPEG,71,scorpion,71,scorpion,0.8666,1
+901.JPEG,81,ptarmigan,81,ptarmigan,0.9063,1
+902.JPEG,418,ballpoint,418,ballpoint,0.9488,1
+903.JPEG,268,Mexican hairless,268,Mexican hairless,0.9050,1
+904.JPEG,957,pomegranate,957,pomegranate,0.8998,1
+905.JPEG,209,Chesapeake Bay retriever,209,Chesapeake Bay retriever,0.8351,1
+906.JPEG,467,butcher shop,582,grocery store,0.5080,0
+907.JPEG,604,hourglass,604,hourglass,0.8246,1
+908.JPEG,920,traffic light,920,traffic light,0.9158,1
+909.JPEG,120,fiddler crab,120,fiddler crab,0.9045,1
+910.JPEG,441,beer glass,441,beer glass,0.7976,1
+911.JPEG,945,bell pepper,945,bell pepper,0.8613,1
+912.JPEG,979,valley,979,valley,0.6892,1
+913.JPEG,943,cucumber,943,cucumber,0.6520,1
+914.JPEG,399,abaya,399,abaya,0.9191,1
+915.JPEG,323,monarch,323,monarch,0.8804,1
+916.JPEG,934,hotdog,933,cheeseburger,0.5799,0
+917.JPEG,925,consomme,572,goblet,0.4836,0
+918.JPEG,952,fig,952,fig,0.8993,1
+919.JPEG,362,badger,362,badger,0.8870,1
+920.JPEG,278,kit fox,278,kit fox,0.8512,1
+921.JPEG,746,puck,746,puck,0.8958,1
+922.JPEG,521,Crock Pot,521,Crock Pot,0.6100,1
+923.JPEG,598,home theater,598,home theater,0.8085,1
+924.JPEG,143,oystercatcher,143,oystercatcher,0.8685,1
+925.JPEG,500,cliff dwelling,500,cliff dwelling,0.8748,1
+926.JPEG,383,Madagascar cat,383,Madagascar cat,0.8592,1
+927.JPEG,897,washer,897,washer,0.8948,1
+928.JPEG,316,cicada,316,cicada,0.8833,1
+929.JPEG,787,shield,787,shield,0.6863,1
+930.JPEG,833,submarine,833,submarine,0.9092,1
+931.JPEG,858,tile roof,858,tile roof,0.8499,1
+932.JPEG,598,home theater,548,entertainment center,0.6318,0
+933.JPEG,284,Siamese cat,284,Siamese cat,0.8500,1
+934.JPEG,643,mask,552,feather boa,0.4738,0
+935.JPEG,708,pedestal,708,pedestal,0.9518,1
+936.JPEG,241,EntleBucher,241,EntleBucher,0.8470,1
+937.JPEG,285,Egyptian cat,598,home theater,0.7344,0
+938.JPEG,516,cradle,999,toilet tissue,0.4141,0
+939.JPEG,47,African chameleon,47,African chameleon,0.8841,1
+940.JPEG,240,Appenzeller,240,Appenzeller,0.3153,1
+941.JPEG,212,English setter,212,English setter,0.8464,1
+942.JPEG,965,burrito,965,burrito,0.8917,1
+943.JPEG,685,odometer,685,odometer,0.8534,1
+944.JPEG,286,cougar,286,cougar,0.8818,1
+945.JPEG,58,water snake,58,water snake,0.8707,1
+946.JPEG,141,redshank,141,redshank,0.9073,1
+947.JPEG,693,paddle,693,paddle,0.6358,1
+948.JPEG,704,parking meter,704,parking meter,0.5885,1
+949.JPEG,290,jaguar,290,jaguar,0.8683,1
+950.JPEG,894,wardrobe,789,shoji,0.7056,0
+951.JPEG,994,stinkhorn,994,stinkhorn,0.9025,1
+952.JPEG,359,black-footed ferret,359,black-footed ferret,0.6385,1
+953.JPEG,828,strainer,828,strainer,0.9037,1
+954.JPEG,868,tray,868,tray,0.9383,1
+955.JPEG,508,computer keyboard,508,computer keyboard,0.5682,1
+956.JPEG,259,Pomeranian,259,Pomeranian,0.8767,1
+957.JPEG,833,submarine,833,submarine,0.8722,1
+958.JPEG,947,mushroom,947,mushroom,0.9042,1
+959.JPEG,306,rhinoceros beetle,306,rhinoceros beetle,0.8514,1
+960.JPEG,826,stopwatch,826,stopwatch,0.7310,1
+961.JPEG,924,guacamole,924,guacamole,0.8109,1
+962.JPEG,447,binoculars,447,binoculars,0.4376,1
+963.JPEG,541,drum,802,snowmobile,0.1605,0
+964.JPEG,509,confectionery,509,confectionery,0.9006,1
+965.JPEG,288,leopard,288,leopard,0.8733,1
+966.JPEG,671,mountain bike,671,mountain bike,0.7354,1
+967.JPEG,684,ocarina,684,ocarina,0.7695,1
+968.JPEG,913,wreck,913,wreck,0.8080,1
+969.JPEG,0,tench,0,tench,0.9016,1
+970.JPEG,87,African grey,87,African grey,0.8874,1
+971.JPEG,29,axolotl,29,axolotl,0.8852,1
+972.JPEG,927,trifle,927,trifle,0.9142,1
+973.JPEG,593,harmonica,593,harmonica,0.9382,1
+974.JPEG,812,space shuttle,812,space shuttle,0.8864,1
+975.JPEG,619,lampshade,846,table lamp,0.5324,0
+976.JPEG,931,bagel,932,pretzel,0.5176,0
+977.JPEG,424,barbershop,424,barbershop,0.9113,1
+978.JPEG,176,Saluki,176,Saluki,0.8205,1
+979.JPEG,389,barracouta,389,barracouta,0.8854,1
+980.JPEG,294,brown bear,294,brown bear,0.8260,1
+981.JPEG,95,jacamar,95,jacamar,0.8947,1
+982.JPEG,902,whistle,902,whistle,0.9692,1
+983.JPEG,343,warthog,343,warthog,0.7901,1
+984.JPEG,906,Windsor tie,906,Windsor tie,0.3494,1
+985.JPEG,217,English springer,217,English springer,0.8757,1
+986.JPEG,754,radio,754,radio,0.9640,1
+987.JPEG,213,Irish setter,213,Irish setter,0.8800,1
+988.JPEG,916,web site,916,web site,0.8983,1
+989.JPEG,243,bull mastiff,243,bull mastiff,0.3574,1
+990.JPEG,604,hourglass,604,hourglass,0.8797,1
+991.JPEG,212,English setter,212,English setter,0.7341,1
+992.JPEG,383,Madagascar cat,384,indri,0.5501,0
+993.JPEG,56,king snake,56,king snake,0.9046,1
+994.JPEG,725,pitcher,725,pitcher,0.8084,1
+995.JPEG,644,matchstick,644,matchstick,0.6595,1
+996.JPEG,171,Italian greyhound,171,Italian greyhound,0.8642,1
+997.JPEG,121,king crab,121,king crab,0.8950,1
+998.JPEG,493,chiffonier,519,crate,0.8099,0
+999.JPEG,621,lawn mower,621,lawn mower,0.9229,1

@@ -1,0 +1,1 @@
+62.JPEG | eps=8.0/255 | model resnet50 | pred spiny lobster -> spiny lobster | PCC(clean,pert)=0.430  top-k(clean,pert)=0.124

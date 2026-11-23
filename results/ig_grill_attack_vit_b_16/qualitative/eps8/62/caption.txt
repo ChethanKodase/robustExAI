@@ -1,0 +1,1 @@
+62.JPEG | eps=8.0/255 | model vit_b_16 | pred spiny lobster -> spiny lobster | PCC(clean,pert)=0.206  top-k(clean,pert)=0.187

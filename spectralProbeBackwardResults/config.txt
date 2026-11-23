@@ -1,0 +1,2 @@
+{'data_dir': 'data/imagenet_val_1000', 'labels': 'data/imagenet_val_1000/labels.csv', 'out_dir': 'spectralProbeBackwardResults', 'eps': 4.0, 'steps': 200, 'num_images': 20, 'subspace_s': 64, 'num_summands': 30, 'topk_attack': 1000, 'ig_path': False, 'sources': ['ig_untar_topk', 'ig_untar_revdomb', 'clf_untargeted', 'random'], 'seed': 0, 'device': 'cuda'}
+probe_layers: stage1_pwconv2, stage3_pwconv2, stage5_pwconv2, stage7_pwconv2, classifier_head

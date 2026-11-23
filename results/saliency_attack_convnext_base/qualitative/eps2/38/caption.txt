@@ -1,0 +1,1 @@
+38.JPEG (target 88.JPEG) | eps=2.0/255 | pred patio -> patio | PCC(clean,pert)=0.082  top-k(clean,pert)=0.040  PCC(pert,target)=0.749

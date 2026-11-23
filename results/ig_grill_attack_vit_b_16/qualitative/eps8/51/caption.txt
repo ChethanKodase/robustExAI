@@ -1,0 +1,1 @@
+51.JPEG | eps=8.0/255 | model vit_b_16 | pred web site -> web site | PCC(clean,pert)=0.049  top-k(clean,pert)=0.005
