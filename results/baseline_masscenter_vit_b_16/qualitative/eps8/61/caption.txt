@@ -1,0 +1,1 @@
+61.JPEG | masscenter | eps=8.0/255 | vit_b_16 | pred mosque -> mosque | PCC(clean,pert)=0.067

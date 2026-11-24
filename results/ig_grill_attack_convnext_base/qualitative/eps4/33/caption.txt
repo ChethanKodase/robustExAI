@@ -1,0 +1,1 @@
+33.JPEG | eps=4.0/255 | model convnext_base | pred gas pump -> gas pump | PCC(clean,pert)=0.421  top-k(clean,pert)=0.149
