@@ -1,0 +1,1 @@
+5.JPEG | cosine | eps=4.0/255 | convnext_base | pred dalmatian -> dalmatian | PCC(clean,pert)=0.012

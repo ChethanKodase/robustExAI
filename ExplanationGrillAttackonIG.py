@@ -62,12 +62,12 @@ Usage
         --data_dir data/imagenet_val_1000 --labels data/imagenet_val_1000/labels.csv \
         --eps 4 8 --steps 500 --max_images 100 --n_qual 10
 
-    export CUDA_VISIBLE_DEVICES=0
-    cd /data1/chethan/robustExAI
-    source .venv/bin/activate
-    uv run python ExplanationGrillAttackonIG.py --model vit_b_16  --max_images 100 --eps 4 8 --n_qual 10
-    uv run python ExplanationGrillAttackonIG.py --model resnet50  --max_images 100 --eps 4 8 --n_qual 10
-    uv run python ExplanationGrillAttackonIG.py --model convnext_base --max_images 100 --eps 4 8 --n_qual 10
+export CUDA_VISIBLE_DEVICES=0
+cd /data1/chethan/robustExAI
+source .venv/bin/activate
+uv run python ExplanationGrillAttackonIG.py --model vit_b_16  --max_images 100 --eps 4 8 --n_qual 10
+uv run python ExplanationGrillAttackonIG.py --model resnet50  --max_images 100 --eps 4 8 --n_qual 10
+uv run python ExplanationGrillAttackonIG.py --model convnext_base --max_images 100 --eps 4 8 --n_qual 10
     (eps in units of 1/255. For ViT lower --num_summands or --layers if memory is tight.)
 """
 
