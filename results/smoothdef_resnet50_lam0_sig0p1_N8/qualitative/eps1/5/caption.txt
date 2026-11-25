@@ -1,0 +1,1 @@
+5.JPEG | smoothdef sig0.1 N8 | top-k+0.0*GRILL | eps=1.0/255 | PCC(smoothed clean,pert)=0.982
