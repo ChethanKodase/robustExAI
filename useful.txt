@@ -1,0 +1,19 @@
+export CUDA_VISIBLE_DEVICES=2
+cd /data1/chethan/robustExAI
+source .venv/bin/activate
+uv run python ExplanationSmoothedDefenseReprGrillAttackonIG.py --model resnet50 --grill_balance 0   --sigma 0.1 --n_smooth 8 --eps 1 --max_images 100
+
+export CUDA_VISIBLE_DEVICES=3
+cd /data1/chethan/robustExAI
+source .venv/bin/activate
+uv run python ExplanationSmoothedDefenseReprGrillAttackonIG.py --model resnet50 --grill_balance 0.5 --sigma 0.1 --n_smooth 8 --eps 1 --max_images 100
+
+export CUDA_VISIBLE_DEVICES=4
+cd /data1/chethan/robustExAI
+source .venv/bin/activate
+uv run python ExplanationSmoothedDefenseReprGrillAttackonIG.py --model resnet50 --grill_balance 1   --sigma 0.1 --n_smooth 8 --eps 1 --max_images 100
+
+export CUDA_VISIBLE_DEVICES=5
+cd /data1/chethan/robustExAI
+source .venv/bin/activate
+uv run python ExplanationSmoothedDefenseReprGrillAttackonIG.py --model resnet50 --grill_balance 2   --sigma 0.1 --n_smooth 8 --eps 1 --max_images 100

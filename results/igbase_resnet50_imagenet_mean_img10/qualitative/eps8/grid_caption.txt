@@ -1,0 +1,1 @@
+Rows: 0.JPEG (bottlecap -> bottlecap, PCC(clean,pert)=0.011); 1.JPEG (green snake -> green snake, PCC(clean,pert)=-0.112); 2.JPEG (borzoi -> borzoi, PCC(clean,pert)=-0.040); 3.JPEG (Border collie -> Border collie, PCC(clean,pert)=-0.000); 4.JPEG (balance beam -> balance beam, PCC(clean,pert)=-0.012)

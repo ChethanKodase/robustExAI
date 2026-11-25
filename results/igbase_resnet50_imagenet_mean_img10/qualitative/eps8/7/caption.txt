@@ -1,0 +1,1 @@
+7.JPEG | baseline=imagenet_mean | eps=8.0/255 | resnet50 | pred black and gold garden spider -> black and gold garden spider | PCC(clean,pert)=-0.089  top-k=0.000

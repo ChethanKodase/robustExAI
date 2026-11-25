@@ -1,0 +1,1 @@
+0.JPEG | baseline=imagenet_mean | eps=8.0/255 | resnet50 | pred bottlecap -> bottlecap | PCC(clean,pert)=0.011  top-k=0.000

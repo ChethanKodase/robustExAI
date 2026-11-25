@@ -1,0 +1,32 @@
+{
+  "collate": false,
+  "results_root": "results",
+  "model": "resnet50",
+  "baseline": "imagenet_mean",
+  "data_dir": "data/imagenet_val_1000",
+  "labels": "data/imagenet_val_1000/labels.csv",
+  "out_dir": null,
+  "eps": [
+    8.0
+  ],
+  "steps": 100,
+  "lr_factor": 0.1,
+  "num_summands": 30,
+  "pref_expl": 100.0,
+  "pref_out": 1000000.0,
+  "topk": 1000,
+  "blur_sigma": 5.0,
+  "gauss_std": 0.3,
+  "gauss_k": 1,
+  "eg_k": 8,
+  "eg_summands": 8,
+  "eg_pool": 64,
+  "max_images": 10,
+  "num_workers": 4,
+  "seed": 0,
+  "n_qual": 10,
+  "grid_rows": 5,
+  "no_plots": false,
+  "no_beta_growth": false,
+  "device": "cuda"
+}

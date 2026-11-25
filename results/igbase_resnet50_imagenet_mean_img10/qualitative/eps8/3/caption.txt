@@ -1,0 +1,1 @@
+3.JPEG | baseline=imagenet_mean | eps=8.0/255 | resnet50 | pred Border collie -> Border collie | PCC(clean,pert)=-0.000  top-k=0.000
