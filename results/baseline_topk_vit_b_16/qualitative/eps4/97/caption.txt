@@ -1,1 +1,0 @@
-97.JPEG | topk | eps=4.0/255 | vit_b_16 | pred indigo bunting -> indigo bunting | PCC(clean,pert)=0.020

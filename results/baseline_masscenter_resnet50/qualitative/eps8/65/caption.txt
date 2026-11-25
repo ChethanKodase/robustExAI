@@ -1,1 +1,0 @@
-65.JPEG | masscenter | eps=8.0/255 | resnet50 | pred turnstile -> turnstile | PCC(clean,pert)=-0.015

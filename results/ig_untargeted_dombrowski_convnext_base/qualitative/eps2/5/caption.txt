@@ -1,1 +1,0 @@
-5.JPEG (target 55.JPEG) | eps=2.0/255 | pred dalmatian -> dalmatian | PCC(clean,pert)=0.034  top-k(clean,pert)=0.058  PCC(pert,target)=-0.012

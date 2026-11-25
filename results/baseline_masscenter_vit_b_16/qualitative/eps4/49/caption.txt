@@ -1,1 +1,0 @@
-49.JPEG | masscenter | eps=4.0/255 | vit_b_16 | pred rock python -> rock python | PCC(clean,pert)=0.182

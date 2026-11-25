@@ -1,1 +1,0 @@
-Rows: 5.JPEG (dalmatian -> dalmatian, PCC(clean,pert)=-0.040); 33.JPEG (gas pump -> gas pump, PCC(clean,pert)=-0.052); 38.JPEG (patio -> patio, PCC(clean,pert)=-0.031); 49.JPEG (rock python -> rock python, PCC(clean,pert)=-0.040); 51.JPEG (web site -> web site, PCC(clean,pert)=-0.115)

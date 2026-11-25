@@ -1,1 +1,0 @@
-5.JPEG | dombrowski | eps=8.0/255 | resnet50 | pred dalmatian -> dalmatian | PCC(clean,pert)=1.000

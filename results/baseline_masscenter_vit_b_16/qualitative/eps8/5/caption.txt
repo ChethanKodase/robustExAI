@@ -1,1 +1,0 @@
-5.JPEG | masscenter | eps=8.0/255 | vit_b_16 | pred dalmatian -> dalmatian | PCC(clean,pert)=0.108

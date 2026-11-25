@@ -1,1 +1,0 @@
-33.JPEG | masscenter | eps=8.0/255 | vit_b_16 | pred gas pump -> gas pump | PCC(clean,pert)=0.057

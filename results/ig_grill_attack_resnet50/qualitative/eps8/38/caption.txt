@@ -1,1 +1,0 @@
-38.JPEG | eps=8.0/255 | model resnet50 | pred patio -> patio | PCC(clean,pert)=0.403  top-k(clean,pert)=0.129

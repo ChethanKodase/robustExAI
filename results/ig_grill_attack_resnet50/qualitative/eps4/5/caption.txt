@@ -1,1 +1,0 @@
-5.JPEG | eps=4.0/255 | model resnet50 | pred dalmatian -> dalmatian | PCC(clean,pert)=0.338  top-k(clean,pert)=0.104

@@ -1,1 +1,0 @@
-38.JPEG | dombrowski | eps=8.0/255 | vit_b_16 | pred patio -> patio | PCC(clean,pert)=0.194

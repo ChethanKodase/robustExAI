@@ -1,1 +1,0 @@
-49.JPEG (target 99.JPEG) | eps=2.0/255 | pred rock python -> rock python | PCC(clean,pert)=0.236  top-k(clean,pert)=0.049  PCC(pert,target)=0.796
