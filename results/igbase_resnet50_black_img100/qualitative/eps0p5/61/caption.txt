@@ -1,0 +1,1 @@
+61.JPEG | baseline=black | eps=0.5/255 | resnet50 | pred mosque -> mosque | PCC(clean,pert)=0.301  top-k=0.037

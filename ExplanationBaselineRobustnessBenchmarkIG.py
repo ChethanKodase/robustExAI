@@ -75,21 +75,21 @@ cd /data1/chethan/robustExAI
 conda deactivate              # if (base) is showing
 source .venv/bin/activate    
 CUDA_VISIBLE_DEVICES=1 bash -c 'for BL in black white mean blur gaussian uniform eg imagenet_mean; do
-  uv run python ExplanationBaselineRobustnessBenchmarkIG.py --model resnet50 --baseline $BL --max_images 100 --eps 4 8; done'
+  uv run python ExplanationBaselineRobustnessBenchmarkIG.py --model resnet50 --baseline $BL --max_images 100 --eps 0.5 1 2 0.25; done'
 
 # GPU 1 — ViT-B/16   (if eg OOMs: add --eg_k 4 --eg_summands 6)
 cd /data1/chethan/robustExAI
 conda deactivate              # if (base) is showing
 source .venv/bin/activate    
 CUDA_VISIBLE_DEVICES=2 bash -c 'for BL in black white mean blur gaussian uniform eg imagenet_mean; do
-  uv run python ExplanationBaselineRobustnessBenchmarkIG.py --model vit_b_16 --baseline $BL --max_images 100 --eps 4 8; done'
+  uv run python ExplanationBaselineRobustnessBenchmarkIG.py --model vit_b_16 --baseline $BL --max_images 100 --eps 0.5 1 2 0.25; done'
 
 # GPU 2 — ConvNeXt-Base  (slowest; skip if you want results sooner)
 cd /data1/chethan/robustExAI
 conda deactivate              # if (base) is showing
 source .venv/bin/activate    
 CUDA_VISIBLE_DEVICES=3 bash -c 'for BL in black white mean blur gaussian uniform eg imagenet_mean; do
-  uv run python ExplanationBaselineRobustnessBenchmarkIG.py --model convnext_base --baseline $BL --max_images 100 --eps 4 8; done'
+  uv run python ExplanationBaselineRobustnessBenchmarkIG.py --model convnext_base --baseline $BL --max_images 100 --eps 0.5 1 2 0.25; done'
 
   
 uv run python ExplanationBaselineRobustnessBenchmarkIG.py --collate  

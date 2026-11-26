@@ -1,0 +1,1 @@
+49.JPEG | baseline=black | eps=0.5/255 | vit_b_16 | pred rock python -> rock python | PCC(clean,pert)=0.330  top-k=0.092

@@ -1,0 +1,1 @@
+97.JPEG | baseline=black | eps=0.5/255 | resnet50 | pred indigo bunting -> indigo bunting | PCC(clean,pert)=0.701  top-k=0.409

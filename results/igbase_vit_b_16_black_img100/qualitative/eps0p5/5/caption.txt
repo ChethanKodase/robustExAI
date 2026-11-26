@@ -1,0 +1,1 @@
+5.JPEG | baseline=black | eps=0.5/255 | vit_b_16 | pred dalmatian -> dalmatian | PCC(clean,pert)=0.395  top-k=0.138

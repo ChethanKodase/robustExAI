@@ -1,0 +1,1 @@
+5.JPEG | baseline=black | eps=0.25/255 | resnet50 | pred dalmatian -> dalmatian | PCC(clean,pert)=0.951  top-k=0.810

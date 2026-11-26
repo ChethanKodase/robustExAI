@@ -1,0 +1,1 @@
+38.JPEG | baseline=black | eps=0.5/255 | vit_b_16 | pred patio -> patio | PCC(clean,pert)=0.313  top-k=0.025
